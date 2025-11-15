@@ -639,7 +639,7 @@ Can fool context-limited detectors if they truncate or ignore middle tokens.
 
 ## It's jailbroken. Now what?
 
-<img src="static/075a2f62cae24724b5df58f233e2680f" alt="5dc39cad37f3eac63cae3b8bc3e1fde2.png" width="409" height="510">
+<img src="static/5dc39cad37f3eac63cae3b8bc3e1fde2.png" alt="5dc39cad37f3eac63cae3b8bc3e1fde2.png" width="409" height="510">
 
 ## It's jailbroken. Now what?
 
