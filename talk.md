@@ -57,7 +57,9 @@ Which is what ultimately led me to this talk.
 
 :::
 
-### Large Language Models
+## 
+
+Large Language Models
 
 <img src="static/8b35236e89b85d472ae8d056e718b3ee-2.png" alt="8b35236e89b85d472ae8d056e718b3ee.png" width="469" height="418" class="jop-noMdConv">
 
