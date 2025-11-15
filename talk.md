@@ -1,8 +1,6 @@
 % It started with a work assignment...  
 % Joseph Cathell [kamikazejoe@gmail.com](mailto:kamikazejoe@gmail.com)  
-%![](static/qrcode.png)  
-Talk: \[${TALK_URL}](${TALK_URL})  
-Repo: \[${REPO_URL}](${REPO_URL})
+%![](static/qrcode.png)<br/>Talk: [${TALK_URL}](${TALK_URL})<br/>Repo: [${REPO_URL}](${REPO_URL})
 
 # Arguing With A Box Of Electronic Rocks
 
@@ -59,7 +57,7 @@ Which is what ultimately led me to this talk.
 
 :::
 
-# Large Language Models
+### Large Language Models
 
 <img src="static/8b35236e89b85d472ae8d056e718b3ee-2.png" alt="8b35236e89b85d472ae8d056e718b3ee.png" width="469" height="418" class="jop-noMdConv">
 
