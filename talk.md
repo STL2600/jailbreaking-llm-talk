@@ -239,6 +239,10 @@ You have to layer your requests and reference things as indirectly and creativel
 
 <img src="static/733643369956d373f411105fc47fad46.png" alt="733643369956d373f411105fc47fad46.png" width="570" height="554" class="jop-noMdConv">
 
+::: notes
+
+:::
+
 ## Implied Instruction or Layered Framing
 
 - Meta-Level Roleplay Framing
